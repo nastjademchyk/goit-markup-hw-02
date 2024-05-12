@@ -1,0 +1,196 @@
+body {
+    font-family: "Roboto", "Verdana", "Helvetica Neue" sans-serif;
+    color: #434455;
+    font-style: normal;
+    font-weight: 400;
+    text-indent:15px;
+}
+.accent{
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 3%;
+    color: #4D5AE5;
+    text-decoration: none;
+}
+.logo{
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 3%;
+    color: #2E2F42; 
+    text-decoration: none;
+}
+.address-class{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    text-align: left;
+    font-style: normal;
+    text-decoration: none;
+    color: #434455;
+}
+.address-class:hover {
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        text-align: left;
+        color:#404BBF; 
+}
+.page-title{
+font-weight: 700;
+font-size: 56px;
+letter-spacing: 2%;
+line-height: 1.07;
+text-align: center;
+color: #FFFFFF;
+}
+.solutions {
+    background-color: #2E2F42;
+}
+.link-menu{
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    text-align: left;
+    color:#2E2F42; 
+    text-decoration: none;
+}
+.link-menu:hover,
+.link-menu:focus{
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        text-align: left;
+        color: #404BBF;
+}
+.link-menu:active {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    text-align: left;
+    color:#404BBF; 
+    text-decoration: underline;
+}
+.button-order{
+    background: #4D5AE5;
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 1.5;
+        letter-spacing: 0.04em;
+        text-align: left;
+        color: #FFFFFF;
+        cursor: pointer;
+}
+.button-order:hover {
+    background-color:#404BBF
+}
+.features-title{
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+        text-align: left;
+        color:#2E2F42;
+}
+.features-text {
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        text-align: left;
+        color:#434455; 
+}
+.team-members{
+    background-color: #F4F4FD;
+}
+.team-title {
+        font-size: 36px;
+        font-weight: 700;
+        line-height: 1.11;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color:#2E2F42; 
+}
+.container {
+    background-color: #FFFFFF;
+}
+.members-name{
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color:#2E2F42; 
+}
+.team-members-description {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #434455;
+}
+.portfolio-title-main {
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2E2F42; 
+}
+.portfolio-title{
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+        text-align: left;
+        color:#2E2F42; 
+}
+.portfolio-description {
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        text-align: left;
+        color: #434455; 
+}
+.footer{
+    background-color: #2E2F42;
+}
+.footer-accent{
+    font-family: Raleway;
+        font-size: 18px;
+        font-weight: 700;
+        line-height: 1.17;
+        letter-spacing: 0.03em;
+        text-align: left;
+        color: #4D5AE5;
+        text-decoration: none;
+}
+.footer-logo{
+    font-family: Raleway;
+        font-size: 18px;
+        font-weight: 700;
+        line-height: 1.17;
+        letter-spacing: 0.03em;
+        text-align: left;
+        color:#F4F4FD; 
+        text-decoration: none;
+}
+.footer-description{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    text-align: left;
+    color: #F4F4FD; 
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
